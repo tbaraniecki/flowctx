@@ -1,0 +1,13 @@
+node_modules/
+dist/
+flows.mitm
+output.har
+*.db
+*.db-wal
+*.db-shm
+.env
+tmp/
+!tmp/.gitkeep
+docs
+.claude
+CLAUDE.md
